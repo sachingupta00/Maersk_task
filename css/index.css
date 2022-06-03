@@ -1,0 +1,36 @@
+@media (min-width: 376px) {
+    header{
+        background-color: black;
+        color: white;
+        height: 2rem;
+    }
+    .buttons{
+        order: 1;
+    }
+
+}
+@media (min-width: 960px) { 
+    button{
+        width: 90px;
+    }
+    .num{
+        font-size: -webkit-xxx-large;
+    }
+    .buttons{
+        order: 4;
+    }
+}
+body{
+    background-color:#f8f9fa;
+}
+header{
+    text-align: center;
+}
+footer{
+    font-style: italic;
+    text-align: center;
+    font-size: smaller;
+}
+.num{
+    font-size: -webkit-xxx-large;
+}

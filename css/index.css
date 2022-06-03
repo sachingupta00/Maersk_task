@@ -1,6 +1,6 @@
-@media (min-width: 376px) {
+@media (max-width: 376px) {
     header{
-        background-color: black;
+        /* background-color: black; */
         color: white;
         height: 2rem;
     }
